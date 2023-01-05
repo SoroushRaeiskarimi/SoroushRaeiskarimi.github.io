@@ -106,3 +106,17 @@ img{
     padding-top: 0px;
 }
 
+.text3{
+    margin-left: 85px;
+    margin-right: 70px;
+    margin-top: 2px;
+    color: #666666;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.text3:hover{
+    color:#2e2e2e;
+}
