@@ -133,3 +133,29 @@ input[type="range"] {
     margin-top: 4px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.back:hover,
+.for:hover,
+.play:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
+
+.back,
+.play,
+.for{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-color: #ffffff;
+}
+
+ul{
+    margin-left: -5px;
+    padding-top: 12px;
+}
+
+li{
+    padding: 12px;
+    display: inline;
+}
