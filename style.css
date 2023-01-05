@@ -120,3 +120,16 @@ img{
 .text3:hover{
     color:#2e2e2e;
 }
+
+input[type="range"] {
+    width: 230px;
+    margin-left: 32px;
+    margin-top: 3px;
+}
+
+.time{
+    color: white;
+    margin-left: 20px;
+    margin-top: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
