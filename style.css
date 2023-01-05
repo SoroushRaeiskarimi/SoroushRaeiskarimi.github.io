@@ -56,3 +56,17 @@ song writers while mouseover{
 .play while mouseover -> {
     border-color: #bebebe;
 }
+
+.kol{
+    width: 300px;
+    height: 420px;
+    background-image: linear-gradient(rgba(171,179,192,0.694),rgba(220, 234, 248, 0.674));
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0px 0px 50px #000000;
+    border-radius: 20px;
+}
+
+div:hover{
+    background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+}
